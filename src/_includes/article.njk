@@ -1,14 +1,25 @@
 ---
 layout: 'base.njk'
 ---
-
+<nav>
+    <div class="logo">
+      <img
+        src="https://i.ibb.co/MSHC086/icons8-magnolia-64-2.png"
+        alt="logo-image"
+      />
+    </div>
+    <div class="nav-items">
+      <a href="/">home</a>
+      <a href="/blog/">blog list</a>
+    </div>
+  </nav>
 <article class="main-article">
-<div class="container container--narrow flow">
+<div class="articlediv">
   
     <h1 class="article-title">
       {{title}}
     </h1>
-    
+    <img src="{{image}}" class="article-image"/>
     {{content | safe}}
 
 </div>

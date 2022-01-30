@@ -16,7 +16,8 @@ layout: "base.njk"
       <a href="/blog/">blog</a>
     </div>
   </nav>
-  <ul role="list" class="articles_list flow">
+  <div class="blog-posts">
+  <ul role="list" class="articles_list_flow">
     {%- for post in collections.post -%}
     <li>
       <article class="snippet">
@@ -26,11 +27,12 @@ layout: "base.njk"
           class="snippet_image"
         />
         <h3 class="snippet_title">{{ post.data.title }}</h3>
-        <p class="snippet_body">{{ post.data.description }}</p>
         <h3 class="snippet_date">{{ post.date | postDate }}</h3>
-        <a href="{{ post.url }}" class="btn btn--primary">read</a>
+        <p class="snippet_body">{{ post.data.description }}</p>
+        <a class="snippet_button" href="{{ post.url }}">read</a>
       </article>
     </li>
     {%- endfor %}
   </ul>
+  </div>
 </div>
