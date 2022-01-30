@@ -190,3 +190,8 @@ nav {
 .article-image {
   margin-bottom: 1rem;
 }
+
+.snippet_image {
+  width: 1200;
+  height: 900;
+}
