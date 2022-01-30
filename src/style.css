@@ -73,7 +73,7 @@ footer {
   margin-bottom: -1rem;
 }
 
-button {
+.home_button {
   padding: 1rem 3rem;
   font-size: 1rem;
   border: none;
@@ -189,11 +189,11 @@ nav {
 
 .article-image {
   margin-bottom: 1rem;
-  width: 1200;
-  height: 900;
+  width: 35%;
+  height: 35%;
 }
 
 .snippet_image {
-  width: 1200;
-  height: 900;
+  width: 35%;
+  height: 35%;
 }
