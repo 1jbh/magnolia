@@ -1,0 +1,156 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600&display=swap");
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #f2e8d7;
+  font-family: "Rubik", sans-serif;
+}
+
+img {
+  width: 300px;
+}
+
+.logo-title {
+  font-size: 6rem;
+  font-weight: bolder;
+}
+
+.hero-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  height: 90vh;
+  padding: 3rem calc((100vw - 1300px) / 2);
+}
+
+.column-left {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 0rem 2rem;
+}
+
+.column-left h1 {
+  margin-bottom: 1rem;
+  font-size: 4rem;
+}
+
+.column-left p {
+  margin-bottom: 1.5rem;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+.hero-logo {
+  padding-left: 2rem;
+  width: 400px;
+  height: 400px;
+}
+
+.column-right {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+footer {
+  bottom: 0;
+}
+
+.footer-bottom {
+  padding: 25px 0;
+  text-align: center;
+}
+
+.footer-bottom p {
+  font-size: 1rem;
+  word-spacing: 2px;
+  margin-bottom: -1rem;
+}
+
+button {
+  padding: 1rem 3rem;
+  font-size: 1rem;
+  border: none;
+  background-color: black;
+  cursor: pointer;
+  border-radius: 50px;
+  font-family: "Rubik", sans-serif;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+@media screen and (max-width: 768px) {
+  .hero-container {
+    grid-template-columns: 1fr;
+    text-align: center;
+  }
+  .column-right {
+    display: none;
+  }
+  .logo-title {
+    font-size: 4rem;
+    margin-bottom: 1rem;
+  }
+  button {
+    margin: 0 auto;
+    margin-top: 1rem;
+  }
+}
+
+html::-webkit-scrollbar {
+  width: 8px;
+}
+
+html::-webkit-scrollbar-track {
+  background-color: #f2e8d7;
+}
+
+html::-webkit-scrollbar-thumb {
+  background: #000;
+}
+
+nav {
+  height: 80px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0rem calc((100vw - 1300px) / 2);
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+}
+
+.nav-items a {
+  text-decoration: none;
+  color: black;
+  padding-right: 1rem;
+  font-weight: 800;
+  font-size: 1.5rem;
+}
+
+.nav-items a:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.logo img {
+  margin: 2rem 1rem 1rem 1rem;
+  width: 64px;
+}
+
+article {
+  text-align: center;
+  padding: 1rem 1rem 1rem 1rem;
+  width: 25%;
+  margin-bottom: 2rem;
+}

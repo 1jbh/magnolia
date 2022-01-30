@@ -4,8 +4,18 @@ layout: "base.njk"
 ---
 
 <div class="section container">
-  <h1 class="section-title">Recent articles</h1>
-
+  <nav>
+    <div class="logo">
+      <img
+        src="https://i.ibb.co/MSHC086/icons8-magnolia-64-2.png"
+        alt="logo-image"
+      />
+    </div>
+    <div class="nav-items">
+      <a href="/">home</a>
+      <a href="/blog/">blog</a>
+    </div>
+  </nav>
   <ul role="list" class="articles_list flow">
     {%- for post in collections.post -%}
     <li>
