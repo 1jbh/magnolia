@@ -104,10 +104,18 @@ a {
   .logo-title {
     font-size: 4rem;
     margin-bottom: 1rem;
+    margin: 0 auto;
   }
-  button {
+  .home_button {
     margin: 0 auto;
     margin-top: 1rem;
+  }
+  .snippet_body {
+    min-width: 50%;
+    margin: 0 auto;
+  }
+  .snippet_button {
+    text-align: center;
   }
 }
 
@@ -149,7 +157,7 @@ nav {
 }
 
 .logo img {
-  margin: 2rem 1rem 1rem 1rem;
+  margin: 1rem 1rem 1rem 1rem;
   width: 64px;
 }
 
@@ -206,4 +214,13 @@ nav {
   text-align: left;
   line-height: 2rem;
   margin-bottom: 1rem;
+}
+
+hr {
+  color: black;
+  border: 1px solid;
+}
+
+.bottomhr {
+  margin-bottom: 80px;
 }
