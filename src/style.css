@@ -25,6 +25,7 @@ img {
   grid-template-columns: 1fr 1fr;
   height: 90vh;
   padding: 3rem calc((100vw - 1300px) / 2);
+  margin-bottom: -3rem;
 }
 
 .column-left {
@@ -58,19 +59,22 @@ img {
   align-items: center;
 }
 
+.main-container {
+  min-height: 100vh; /* will cover the 100% of viewport */
+  overflow: hidden;
+  display: block;
+  position: relative;
+  padding-bottom: 100px; /* height of your footer */
+}
 footer {
+  position: absolute;
   bottom: 0;
+  width: 100%;
 }
-
-.footer-bottom {
-  padding: 25px 0;
-  text-align: center;
-}
-
-.footer-bottom p {
+footer p {
   font-size: 1rem;
   word-spacing: 2px;
-  margin-bottom: -1rem;
+  text-align: center;
 }
 
 .home_button {
@@ -196,4 +200,10 @@ nav {
 .snippet_image {
   width: 35%;
   height: 35%;
+}
+
+.article-text {
+  text-align: left;
+  line-height: 2rem;
+  margin-bottom: 1rem;
 }
