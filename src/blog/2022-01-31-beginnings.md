@@ -5,7 +5,7 @@ author: hi
 date: 2022-01-31T02:24:35.872Z
 tags:
   - post
-image: /assets/blog/headphonescat_1200x900.png
+image: /assets/blog/img_1910.jpg
 ---
 welcome to the blog. my boyfriend was cool and talented enough to make (!) this whole blog for me which is crazy but he continues to amaze me. thanks babe love you! anyways. i was unsure about what to write about first but i think that i'll just write about something that i think is suitable for my first blog post: beginnings and how they can be both scary and exciting.
 
