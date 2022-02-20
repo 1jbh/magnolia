@@ -1,0 +1,28 @@
+---
+title: self-worth
+description: dealing with insecurities
+author: me
+date: 2022-02-20T17:17:14.404Z
+tags:
+  - post
+image: /assets/blog/_.jpg
+---
+something that i've been struggling with recently has been self-worth. it's been constantly in my mind and i was unsure as to how to fix it. however, i've been thinking about it and the conclusion that i've come to is that it starts with yourself. to think that you're good enough, you must acknowledge that you are doing the most that you can. you must learn to like yourself so that you won't be this harsh on yourself.
+
+but let's talk about what exactly self-worth is. or more specifically, what i've been experiencing with self-worth. i've been feeling like i'm not enough. not smart enough, not friendly enough, not a good enough girlfriend or daughter, and the like. however, what i've been struggling with almost the most has been feeling not pretty enough. and i know, that sounds so conceited, and to be completely honest, it definitely is. i have no excuse for myself. i've become so obsessed with the idea of looking your best because if you're pretty, everyone will want to be friends with you, right? exactly, that makes no fucking sense. but in my head, if my outfits aren't good enough, if my hair isn't pretty enough, and if my makeup doesn't look good enough, no one will want to be seen with me. frankly, that's so messed up on my part but it's been so difficult for me to think any differently. i do want to look good for myself because that is what puts my mind at ease but i just get self-conscious when i feel like i could look better, which is what i was just basically discussing. i just want to be liked. similarly, i try so hard in school because i want to make my parents proud. no matter what grade i get, i always feel like i could have done better. i also want to be valuable in someone's life. meaning that i actually contribute good things to them and that i'm not just there because i am.
+
+i live off of compliments. i love giving them, i love receiving them. but that's usual human nature, isn't it? to be told that you're so good at this and that, that you're so pretty, that your outfit is so cute, that you're so smart. the difference here is that when i'm not told those things, i feel like it was for nothing. meaning that i feel as though i tried and it was *not good enough*. oh, my parents didn't say anything after i showed them my grades? i didn't do good enough. i need to take better notes. i need to study more. i need to be smarter. oh, no one said anything about my outfit after i was so proud of it? i'm never wearing it again. you should have worn something better. you need to reinvent your style. try cardigans?
+
+the issue isn't that i didn't receive the validation that i was craving. the issue is *me*. i'm so insecure about myself that i need others to tell me that i'm enough in order to feel like i am enough, even if just temporarily. to stop the cycle of yearning for those compliments to feel secure, you have to start at the root. insecurities.
+
+why are you so insecure? is it because you don't like yourself? let's look up the official definition of insecurity. insecurity, noun. uncertainty or anxiety about oneself; lack of confidence. you are insecure because *you don't like yourself.* that's why you're insecure and why you are so harsh on yourself. you only expect the best from yourself.
+
+but let's think: would you be this harsh on anyone else? if they did exactly as you did, would you still be this hard on them? would you repeatedly tell them that they could do better and drill that in their head? obviously not. if that's the best that they can do, then that's more than enough, right? so what makes that any different for you? we can put it this way. if a friend got say, an 80% on a math test and told you. what would you say? you would be proud of them for getting good marks on that math test. you would congratulate them! you would think that they look pretty today. if a friend showed up in sweats and a sweatshirt, what would you think? you would think that they look so pretty today, as always. no one is harsher on yourself than you. what you might think is the end of the world or a big deal wouldn't even be noticed by another person.
+
+i know that it's incredibly hard to adopt this mindset because i struggle with this so much and have been for a while now. to graduate from this you must learn to like yourself. you like your friends and you are proud of everything that they do. so to feel that way about yourself, you need to like yourself. but how do you do that?
+
+let's start with an example. ry ry is the most talented person that i know. he's so easily good at everything that he does and while i'm so proud of him, it frustrates me that he isn't proud of himself. it's difficult to be as proud of yourself as others are of you, i've realized. when you always expect the best from yourself, it's no longer an accomplishment to do well at something. instead, it's an expectation. that takes away from it. i've found that i tend to lose interest in things after the accomplishments are no longer rewarding, but simply expected.
+
+ i believe that once you take a step back and come to terms with all that you've done, that is when you can really move on from low self-worth and insecurities. you must feel like you've done enough in order to be secure with what you've accomplished. not sure if that makes sense but it makes sense in my head.
+
+celebrate the small successes and i promise you that things will feel better. writing this was more for myself than anything else. i truly do think that once you solve the root of this, everything else will fall into place
